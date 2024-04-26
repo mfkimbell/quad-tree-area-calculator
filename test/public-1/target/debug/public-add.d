@@ -1,0 +1,1 @@
+/Users/mitchellkimbell/Desktop/CS501/project1/182@p1/test/public-1/target/debug/public-add: /Users/mitchellkimbell/Desktop/CS501/project1/182@p1/src/lib.rs /Users/mitchellkimbell/Desktop/CS501/project1/182@p1/test/public-1/src/main.rs
